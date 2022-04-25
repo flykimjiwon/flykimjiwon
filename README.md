@@ -11,7 +11,7 @@
 
 ### 추가사항
 
-- 프로그래머스 프로필 (수상 및 경력): https://programmers.co.kr/pr/flykimjiwun_9369
+- 프로그래머스 프로필 (수상 및 경력): https://programmers.co.kr/pr/flykimjiwon92
 - 개발 블로그 : https://flykimjiwon.tistory.com/
 - 개인 일상블로그 : https://blog.naver.com/flykimjiwun
 
