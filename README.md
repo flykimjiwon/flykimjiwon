@@ -1,5 +1,7 @@
 프론트엔드 개발자 김지원 입니다. 😄
 ---
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+---
 ### [개발이력]
 [신한AI] - 프론트엔드 개발
 (2023.05 - 재직중)
