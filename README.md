@@ -1,6 +1,6 @@
 프론트엔드 개발자 김지원 입니다. 😄
 ---
-## -잘다루는 기술 및 언어
+## -사용할 수 있는 기술 및 언어
 <div align="left">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/next-000000?style=flat&logo=nextdotjs&logoColor=white">
