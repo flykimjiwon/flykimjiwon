@@ -14,19 +14,6 @@
 
 ---
 
-## 🙆🏻‍♂️ 인적사항
-
-| 항목 | 내용 |
-|---|---|
-| **이메일** | flykimjiwun@naver.com |
-| **전화번호** | 010-4742-0202 |
-| **Github** | https://github.com/flykimjiwon |
-| **Github2** | https://github.com/colabear92 |
-| **Blog** | https://flykimjiwon.tistory.com/ |
-| **LinkedIn** | https://bit.ly/3CmD72w |
-
----
-
 ## 🖥️ 소프트웨어 역량
 
 ### Front-end
