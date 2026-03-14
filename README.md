@@ -8,6 +8,8 @@
 
 ## 🖥️ 소프트웨어 역량
 
+> 이것저것 나열은 했지만, AI 시대에 뭔들 못하겠습니까.
+
 ### Front-end
 <div align="left">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
